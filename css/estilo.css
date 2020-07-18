@@ -1,0 +1,69 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	height: auto;
+	width: auto;
+	/*background-color: #d9d9d9; */
+}
+
+nav {
+	
+	color: white;
+}
+
+footer {
+	text-align: center;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+}
+
+li a {
+	text-align: center;
+	text-decoration: none;
+}
+
+
+
+
+.btn-veja-mais {
+	background: #032C62;
+}
+
+.bg-index {
+	background: #032C62;
+	color: white;
+}
+
+.bg-footer {
+	background: #032C62;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
